@@ -1,0 +1,7 @@
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\bin\Debug\SnakeProjectConsoleApp.exe.config
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\bin\Debug\SnakeProjectConsoleApp.exe
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\bin\Debug\SnakeProjectConsoleApp.pdb
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\obj\Debug\SnakeProjectConsoleApp.csprojAssemblyReference.cache
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\obj\Debug\SnakeProjectConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\obj\Debug\SnakeProjectConsoleApp.exe
+C:\Users\TamaraZ\source\repos\SnakeProjectConsoleApp\obj\Debug\SnakeProjectConsoleApp.pdb
